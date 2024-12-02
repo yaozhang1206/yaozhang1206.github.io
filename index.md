@@ -30,9 +30,9 @@ Hi! I am Yao Zhang, a third-year PhD student in Astronomy at Tsinghua University
 ## Publications
 
 ### Peer-Reviewed Articles
-1. Paulo Montero-Camacho, **Yao Zhang**, Yi Mao, ["The long-lasting effect of X-ray pre-heating in the post-reionization intergalactic medium."](https://academic.oup.com/mnras/article/529/4/3666/7630228) Monthly Notices of the Royal Astronomical Society, 2024.
-2. Paulo Montero-Camacho, Catalina Morales-Gutiérrez, **Yao Zhang**, Heyang Long, Yi Mao, "Reionization relics in the cross-correlation between the Ly$\alpha$ forest and 21 cm intensity mapping in the post-reionization era." arXiv:[2409.11613](https://arxiv.org/pdf/2409.11613).
-3. Cheng Zhao *et al.*, "MUltiplexed Survey Telescope: Perspectives for Large-Scale Structure Cosmology in the Era of Stage-V Spectroscopic Survey." arXiv:[2411.07970](https://arxiv.org/abs/2411.07970).
+1. P. Montero-Camacho, **Y. Zhang** and Y. Mao, ["The long-lasting effect of X-ray pre-heating in the post-reionization intergalactic medium."](https://academic.oup.com/mnras/article/529/4/3666/7630228) Monthly Notices of the Royal Astronomical Society, 2024.
+2. P. Montero-Camacho, C. Morales-Gutiérrez, **Y. Zhang**, H. Long and Y. Mao, "Reionization relics in the cross-correlation between the Ly$\alpha$ forest and 21 cm intensity mapping in the post-reionization era." arXiv:[2409.11613](https://arxiv.org/pdf/2409.11613).
+3. C. Zhao *et al.*, "MUltiplexed Survey Telescope: Perspectives for Large-Scale Structure Cosmology in the Era of Stage-V Spectroscopic Survey." arXiv:[2411.07970](https://arxiv.org/abs/2411.07970).
 
 ---
 
