@@ -30,7 +30,7 @@ Hi! I am Yao Zhang, a third-year PhD student in Astronomy at Tsinghua University
 ## Publications
 
 ### Peer-Reviewed Articles
-- Paulo Montero-Camacho, **Yao Zhang**, Yi Mao, ["The long-lasting effect of X-ray pre-heating in the post-reionization intergalactic medium."](https://academic.oup.com/mnras/article/529/4/3666/7630228) Monthly Notices of the Royal Astronomical Society (MNRAS), 2024.(#)
+1. Paulo Montero-Camacho, **Yao Zhang**, Yi Mao, ["The long-lasting effect of X-ray pre-heating in the post-reionization intergalactic medium."](https://academic.oup.com/mnras/article/529/4/3666/7630228) Monthly Notices of the Royal Astronomical Society (MNRAS), 2024.
 
 ---
 
