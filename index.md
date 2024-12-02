@@ -5,6 +5,11 @@ title: Home
 
 # Welcome to My Website!
 
+<div style="text-align: center;">
+  <img src="figure/IMG_3484.jpeg" style="width: 200px; border-radius: 50%;">
+</div>
+
+
 Hi! I am Yao Zhang, a third-year PhD student in Astronomy at Tsinghua University, Beijing, China. My research focuses on the interplay between **reionization** and **cosmology**, particularly reionization's impact on **Lyα forest, 21 cm intensity mapping** and **baryon acoustic oscillation (BAO) measurements**. I am also passionate about understanding observational signatures of **dark matter models**, such as **Warm Dark Matter (WDM)**.
 
 ---
