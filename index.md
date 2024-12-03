@@ -6,7 +6,7 @@ title: Home
 # Welcome to My Homepage!
 
 <div style="text-align: center;">
-  <img src="figure/IMG_3484.jpeg" style="width: 300px; border-radius: 70%;">
+  <img src="figure/profile.jpeg" style="width: 300px; border-radius: 70%;">
 </div>
 
 
